@@ -5,9 +5,9 @@ const TopBar = () => {
   return (
     <>
       <div className='top-banner'>
-        <h5>
+        <h6>
         Exercism Premium has launched. Supercharge your experience!
-        </h5>
+        </h6>
       </div>
     </>
   )
