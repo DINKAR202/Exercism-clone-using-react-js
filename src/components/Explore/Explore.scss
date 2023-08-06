@@ -1,0 +1,44 @@
+.Middle-design{
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+
+// .Middle-design .upperlayer{
+//     width: 80px;
+//     position: relative;
+//     z-index: -1;
+//     margin-bottom: -40px;
+// }
+
+// .Middle-design .Lowerlayer{
+//     background-image: url('../img/asset\ 20.svg');
+//     height: 50px;
+//     // margin-top: 20px;
+//     background-position: center;
+//     background-repeat: no-repeat;  
+//     // width: 45px;
+//     // position: relative;
+//     // z-index: 1;
+
+// }
+
+.for-doubble-logo{
+    background-position: center;
+    background-repeat: no-repeat;
+    background-image: url('../img/asset\ 37.svg');
+    height: 80px;
+}
+
+.middle-img{
+    height: 40px;
+    width: 50px;
+    z-index: -1;
+    margin-top: 20px;
+}
+
+
+.Middle-design .Lowerdesign{
+    width: 70px;
+    height: 15px;
+}
