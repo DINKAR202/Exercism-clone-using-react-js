@@ -5,3 +5,41 @@
 .card-lan:hover{-webkit-animation:scale-up-center .4s cubic-bezier(.39,.575,.565,1.000) both;
     animation:scale-up-center .4s cubic-bezier(.39,.575,.565,1.000) both
 }
+
+.btm_box{
+    justify-content: center;
+    align-items: center;
+}
+
+// .btm_box .middle_box{
+//     display: flex;
+// }
+
+.btm_box .middle_box button{
+    margin-left: auto;
+    margin-right: auto;
+    display: flex;
+    width: 100%;
+    // text-align: center;
+}
+
+.btm_box .middle_box button a{
+    color: white;
+    margin-left: 40px;
+    // margin-left: auto;
+    // margin-right: auto;
+    // text-align: center;
+    // align-items: center;
+    // display: flex;
+    // justify-content: center;
+}
+
+.btm_box .left_line{
+    height: 2px;
+    background-color:  #E1EBFF;
+}
+
+.btm_box .right_line{
+    height: 2px;
+    background-color:  #E1EBFF;
+}
