@@ -2,7 +2,6 @@ import React from "react";
 import "./Explore.scss";
 import Leftdesign from "../img/asset 35.svg";
 import Rightdesign from "../img/asset 36.svg";
-// import upperlayer from "../img/asset 37.svg";
 import Lowerlayer from '../img/asset 20.svg'
 import Lowerdesign from "../img/asset 40.svg";
 

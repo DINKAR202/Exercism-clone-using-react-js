@@ -71,7 +71,7 @@ const Manylan = (props) => {
         {/* bottom function */}
         <div className="container btm_box d-flex mt-3">
             <div className='col-lg-4 left_line'></div>
-            <div className='col-lg-3 middle_box'> <button className='border-rounded-3 btn btn-primary'><b><a href="#">See all 67 Language Tracks -</a></b></button> </div>
+            <div className='col-lg-3 middle_box'> <button className='btn'><b><a href="#">See all 67 Language Tracks -</a></b></button> </div>
             <div className='col-lg-5 right_line'></div>
         </div>
 

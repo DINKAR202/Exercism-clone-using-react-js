@@ -3,8 +3,7 @@ import TopBar from './components/topBar/TopBar';
 import Hero from './components/header/hero';
 import Explore from './components/Explore/Explore';
 import Manylan from './components/ManyLan/Manylan';
-import Python from '../src/components/img/lang-logo/python.svg'
-
+import Over_data from './components/Over_data/Over_data';
 
 function App() {
   return (
@@ -14,7 +13,8 @@ function App() {
         <Hero/>
         <Explore/>
         <Manylan />
-        s,dmbc kjdsmnbc j
+        <Over_data />
+
     </>
   );
 }
