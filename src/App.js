@@ -14,6 +14,7 @@ function App() {
         <Hero/>
         <Explore/>
         <Manylan />
+        s,dmbc kjdsmnbc j
     </>
   );
 }
