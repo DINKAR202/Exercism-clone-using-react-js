@@ -4,6 +4,7 @@ import Hero from './components/header/hero';
 import Explore from './components/Explore/Explore';
 import Manylan from './components/ManyLan/Manylan';
 import Over_data from './components/Over_data/Over_data';
+import Automated from './components/Automated/Automated';
 
 function App() {
   return (
@@ -14,6 +15,7 @@ function App() {
         <Explore/>
         <Manylan />
         <Over_data />
+        <Automated />
 
     </>
   );
