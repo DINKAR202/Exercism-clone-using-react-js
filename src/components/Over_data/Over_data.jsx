@@ -2,7 +2,7 @@ import React from "react";
 import Lowerlayer from "../img/asset 22.svg";
 import "./Over_data.scss";
 import Lowerdesign from "../img/asset 40.svg";
-import Allergiess from "../img/zebra-logo.svg";
+// import Allergiess from "../img/zebra-logo.svg";
 import C from '../img/lang-logo/c.svg'
 import Java from '../img/lang-logo/java.svg'
 import Ruby from '../img/lang-logo/ruby.svg'

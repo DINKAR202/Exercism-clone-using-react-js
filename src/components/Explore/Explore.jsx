@@ -14,7 +14,7 @@ const Explore = () => {
             <img src={Leftdesign} alt="Leftdesign" />
           </div>
 
-          <div className="col-lg-6 d-flex flex-column Middle-design py-3">
+          <div className="col-lg-6 Middle-design py-3">
             <div className="for-doubble-logo">
               <img
                 className="middle-img"

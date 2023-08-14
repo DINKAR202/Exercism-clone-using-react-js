@@ -1,7 +1,7 @@
 .Middle-design{
-    justify-content: center;
-    align-items: center;
-    text-align: center;
+    flex-direction: column;
+    display: flex;
+    text-align: center !important;
 }
 
 .for-doubble-logo{
