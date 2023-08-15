@@ -8,6 +8,7 @@ import Automated from './components/Automated/Automated';
 import Big_banner from './components/Big_banner/Big_banner';
 import Mentoring from './components/Mentoring/Mentoring';
 import Practice from './components/Practice/Practice';
+import Footer from './components/Footer/Footer';
 
 function App() {
   return (
@@ -22,6 +23,7 @@ function App() {
         <Big_banner />
         <Mentoring />
         <Practice />
+        <Footer />
     </>
   );
 }
