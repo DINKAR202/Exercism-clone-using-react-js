@@ -1,5 +1,6 @@
 import React from 'react'
 import './Practice.scss'
+import Logo_img from '../img/asset 0.svg'
 
 const Practice = () => {
   return (
@@ -8,6 +9,7 @@ const Practice = () => {
             <div className='container'>
               <div className="row py-5 d-flex">
               <div className='col-lg-6'>
+                    <img className='text-light2 mb-4' src={Logo_img} alt="Logo_img" />
                     <h4><strong>Code practice and mentorship for everyone</strong></h4>
                     <p>Develop fluency in 67 programming languages with our unique blend of learning, practice and mentoring. Exercism is fun, effective and 100% free, forever.</p>
                 </div>

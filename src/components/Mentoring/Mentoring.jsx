@@ -26,7 +26,8 @@ const Mentoring = () => {
 
   return (
     <>
-      <div className="container-fluid">
+      <div className="container-fluid mt-5">
+          <h2 className="text-center text-color"><strong>Why mentoring?</strong></h2>
         <div className="container d-flex mt-5 g-3">
           <div className="row">
           {box_data.map((item) => (

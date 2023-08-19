@@ -1,44 +1,32 @@
-import React, { useState } from 'react';
+import React from "react";
+import Footer_data from "./Footer_data";
+import "./Footer.scss"
 
 const Footer = () => {
-    // const myBioData = [
-    //     {
-    //         id:0,
-    //         name:"Dinkar",
-    //         age:'29'
-    //     },
-    //     {
-    //         id:1,
-    //         name:"Nikki",
-    //         age:'29'
-    //     },
-    // ]
-    
-    // const [myArray, setmyArray] = useState(myBioData)
-    // const clearArray = () => {
-    //     setmyArray([]);
-    // }
-        const [myObject, setMyObject] = useState({
-            myName:'Dinkar Kumar', myAge:21, degree:"B.E", rollNo: 28, channel: "Apna channel"
-        });
-        const changeObject = () => {
-            setMyObject({...myObject, myAge:23});
-        }
-    
-
-return (
-    <>
-      {/* {
-        myArray.map((curElm) => {
-            return <h1 className='h1style' key={curElm.id}>Name: {curElm.name} & age is : {curElm.age}</h1>
-        })
-      } */}
-      <h1>Name: {myObject.myName} & Age: {myObject.myAge} & Degree {myObject.degree}</h1>
-
-      <button className='btn button-17' onClick={changeObject}>Update</button>
-      jmhewnsb jwehmndcb
-    </>
+  return (
+    <footer className="container-fluid bg-primary2 text-light">
+      <div className="container border-top border-bottom py-5">
+        <div className="row">
+          {Footer_data.map((section) => (
+            <div key={section.id} className="col-lg-2">
+              <h6><strong>{section.title}</strong></h6>
+              <img className="img2" src={section.img} alt={`${section.title} icon`} />
+              {Object.keys(section).map((key) => {
+                if (key.startsWith("para")) {
+                  return <p key={key}>{section[key]}</p>;
+                }
+                return null;
+              })}
+            </div>
+          ))}
+        </div>
+      </div>
+      <div className="container py-3 d-flex justify-content-between">
+            <h6>Exercism is not-for-profit organisation <a href="#"><u>registered in the UK</u></a>. Its trustees are <a href="#"><u>Katrina Owen, Jeremy Walker</u></a> and <a href="#"><u>Erik Schierboom</u></a>.</h6>
+            <h5>© 2023 Exercism</h5>
+      </div>
+    </footer>
   );
-}
+};
 
 export default Footer;
