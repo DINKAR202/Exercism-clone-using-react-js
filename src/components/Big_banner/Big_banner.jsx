@@ -29,7 +29,7 @@ const Big_banner = () => {
                     <h2 className="text-color">
                       <b>
                         Over 3,450 coding exercises. <br /> From "Allergies" to
-                        "Zebra Puzzle".
+                        "Zebra Puzzle"okay.
                       </b>
                     </h2>
                     <img
