@@ -1,0 +1,41 @@
+{
+  "files": {
+    "main.css": "/Exercism-clone-using-react-js/static/css/main.aa84a68f.css",
+    "main.js": "/Exercism-clone-using-react-js/static/js/main.a232ebf6.js",
+    "static/media/asset 28.jpeg": "/Exercism-clone-using-react-js/static/media/asset 28.a17ecfb7494112bb4126.jpeg",
+    "static/media/asset 23.jpeg": "/Exercism-clone-using-react-js/static/media/asset 23.5cd0aa760cdaf9c7ce5f.jpeg",
+    "static/media/asset 19.svg": "/Exercism-clone-using-react-js/static/media/asset 19.00cb9d3a8e3dba2930ac71558ad130c9.svg",
+    "static/media/asset 27.svg": "/Exercism-clone-using-react-js/static/media/asset 27.d7002db4659bb16ee58291c81400705b.svg",
+    "static/media/go.svg": "/Exercism-clone-using-react-js/static/media/go.2a0df2152441d07f4dfb52edd1dd5fe6.svg",
+    "static/media/ruby.svg": "/Exercism-clone-using-react-js/static/media/ruby.80ce5638c0d473a5179e4716c8a2e9de.svg",
+    "static/media/elixir.svg": "/Exercism-clone-using-react-js/static/media/elixir.c2952eae2df44fa93529eeb65a16f7f1.svg",
+    "static/media/asset 0.svg": "/Exercism-clone-using-react-js/static/media/asset 0.69dee7854ba0db4877bd6853969e614d.svg",
+    "static/media/rust.svg": "/Exercism-clone-using-react-js/static/media/rust.6946d6622c2c616de1c65f6b92a6be77.svg",
+    "static/media/bash.svg": "/Exercism-clone-using-react-js/static/media/bash.0da2e48b9475caf483b99042aa7a32de.svg",
+    "static/media/typescript.svg": "/Exercism-clone-using-react-js/static/media/typescript.c8fb6a36eafe455570a4ce2b9f25f393.svg",
+    "static/media/java.svg": "/Exercism-clone-using-react-js/static/media/java.35b116966c7811b822aeba6a94cad1d2.svg",
+    "static/media/python.svg": "/Exercism-clone-using-react-js/static/media/python.3e92eee045044793fbda9c66a70f18f5.svg",
+    "static/media/javascript.svg": "/Exercism-clone-using-react-js/static/media/javascript.4b6e1209ad6a3063ec8fbfd3d071be10.svg",
+    "static/media/asset 36.svg": "/Exercism-clone-using-react-js/static/media/asset 36.3eaefb01a686041eecd714690c7c9478.svg",
+    "static/media/asset 29.svg": "/Exercism-clone-using-react-js/static/media/asset 29.937196d0f4e88c8667ddf45572a2916f.svg",
+    "static/media/asset 25.svg": "/Exercism-clone-using-react-js/static/media/asset 25.c2efa40fa01c3d7e0e3cc6bf2f09bc1e.svg",
+    "static/media/asset 24.svg": "/Exercism-clone-using-react-js/static/media/asset 24.03a68376988fd6029ab17264868a541a.svg",
+    "static/media/cpp.svg": "/Exercism-clone-using-react-js/static/media/cpp.c1b549c32afd998c012a97941c202454.svg",
+    "static/media/csharp.svg": "/Exercism-clone-using-react-js/static/media/csharp.d6026728c25ad63d99ee336229d6ad40.svg",
+    "static/media/c.svg": "/Exercism-clone-using-react-js/static/media/c.f06e5c8a7c534107d3783b3eb99aad71.svg",
+    "static/media/asset 26.svg": "/Exercism-clone-using-react-js/static/media/asset 26.67b27a2796143827b3ea7e1885cd01c2.svg",
+    "static/media/asset 22.svg": "/Exercism-clone-using-react-js/static/media/asset 22.d434982806f753316c2b087d0ca1daa2.svg",
+    "static/media/asset 35.svg": "/Exercism-clone-using-react-js/static/media/asset 35.3b0e82b6e1e955076fd8b4efa79f2316.svg",
+    "index.html": "/Exercism-clone-using-react-js/index.html",
+    "static/media/asset 37.svg": "/Exercism-clone-using-react-js/static/media/asset 37.8555cddd3ddd74193e83.svg",
+    "static/media/asset 20.svg": "/Exercism-clone-using-react-js/static/media/asset 20.efdca90d8b724f3a545fdb9861105aa7.svg",
+    "static/media/asset 43.svg": "/Exercism-clone-using-react-js/static/media/asset 43.7d9dd4fe5a391d939ed5.svg",
+    "static/media/asset 40.svg": "/Exercism-clone-using-react-js/static/media/asset 40.4338a5eabf0c4b5872a93f2b8ad28f48.svg",
+    "main.aa84a68f.css.map": "/Exercism-clone-using-react-js/static/css/main.aa84a68f.css.map",
+    "main.a232ebf6.js.map": "/Exercism-clone-using-react-js/static/js/main.a232ebf6.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.aa84a68f.css",
+    "static/js/main.a232ebf6.js"
+  ]
+}
